@@ -1,0 +1,10 @@
+{
+    "name": "Shopping PWA App",
+    "short_name": "Shopping App",
+    "theme_color": "#1f1f25",
+    "background_color": "#1f1f25",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
